@@ -2,7 +2,7 @@
   "name": "hardhat-project",
   "dependencies": {
     "@1inch/fusion-sdk": "^0.1.12",
-    "@openzeppelin/contracts": "3.4",
+    "@openzeppelin/contracts": "4.9",
     "@safe-global/auth-kit": "^2.0.0",
     "@uniswap/v3-core": "^1.0.1",
     "@uniswap/v3-periphery": "^1.4.4",
